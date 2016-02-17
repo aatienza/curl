@@ -1,5 +1,5 @@
 {
-	"name": "AlexSoft/curl",
+	"name": "alexsoft/curl",
 	"description": "cURL wrapper",
 	"keywords": ["php", "curl"],
 	"license": "MIT",
