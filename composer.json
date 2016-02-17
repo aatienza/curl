@@ -17,10 +17,5 @@
 		"psr-0": {
 			"aatienza\\": "src/"
 		}
-	},
-	"extra": {
-		"branch-alias": {
-			"dev-master": "master"
-		}
 	}
 }
