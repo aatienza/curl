@@ -1,0 +1,27 @@
+{
+	"name": "aatienza/curl",
+	"description": "cURL wrapper",
+	"keywords": ["php", "curl"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Alex Plekhanov",
+			"name": "Alvaro Atienza"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0",
+		"lib-curl": "*"
+	},
+	"autoload": {
+		"psr-0": {
+			"aatienza\\": "src/"
+		}
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "0.4.x-dev"
+		}
+	},
+	"minimum-stability": "dev"
+}
